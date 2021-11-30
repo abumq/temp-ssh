@@ -1,3 +1,8 @@
+## INTRO
+Use this if you want to run a temporary SSH server and allow access with ssh keys.
+
+This will mount `/data` directory to the running container and expose port 22.
+
 ## START
 
 Simply run the image
