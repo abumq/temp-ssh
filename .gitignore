@@ -1,3 +1,4 @@
 data/*
+!data/.gitignore
 test.file
 ssh/authorized_keys
